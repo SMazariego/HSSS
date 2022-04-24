@@ -10,6 +10,7 @@ I changed the div id for multiple items in order to consolidate css lines.
 
 
 
-git@github.com:SMazariego/HSSS.git
+Link to the Github repository: git@github.com:SMazariego/HSSS.git
+Link to deployed application: https://smazariego.github.io/HSSS/
 # Horiseon-Challenge-1
 
