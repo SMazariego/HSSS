@@ -3,13 +3,13 @@
 
 # Code Refactor Starter Code
 Here are the changes that I made to the Index.html file.
-I corrected the Search Enging Optimization link so that it worked correctly.
-I add semantic elements to better desctribe the work. 
-I changed the classes for multiple items in order to consolidate css lines.
+I corrected the links at the top so that it worked correctly.
+I added semantic elements to better desctribe the work. 
+I changed the div id for multiple items in order to consolidate css lines.
 
 
 
 
-https://smazariego.github.io/HSSS/
+git@github.com:SMazariego/HSSS.git
 # Horiseon-Challenge-1
 
