@@ -1,5 +1,6 @@
 # HSSS![Screen Shot 2022-04-24 at 8 53 06 AM](https://user-images.githubusercontent.com/102334091/164977764-8dc1068f-ca0a-48c3-80d5-7e3a46b1a031.png)
 
+![Screen Shot 2022-04-24 at 9 09 31 AM](https://user-images.githubusercontent.com/102334091/164978132-82c20bfd-7c14-4922-afcf-6ba18399dac8.png)
 
 # Code Refactor Starter Code
 Here are the changes that I made to the Index.html file.
